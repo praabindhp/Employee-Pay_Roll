@@ -7,7 +7,7 @@ Entering Options:
 
   1. Basic Pay
   
-  To Find:
+   To Find:
   
     1. Gross Salary
     

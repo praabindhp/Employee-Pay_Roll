@@ -7,16 +7,16 @@ class Employee
     Scanner get = new Scanner(System.in);
     Employee()
     {
-        System.out.println("Enter Name of the Employee:");
+        System.out.println("Enter Name Of The Employee: ");
         name = get.nextLine();
-        System.out.println("Enter The ID Of The Employee:");
+        System.out.println("Enter The ID Of The Employee: ");
         eid = get.nextLine();
-        System.out.println("Enter Address Of The Employee:");
+        System.out.println("Enter Address Of The Employee: ");
         address = get.nextLine();
-        System.out.println("Enter Mail ID Of The Employee:");
+        System.out.println("Enter Mail ID Of The Employee: ");
         mailId = get.nextLine();
-        System.out.println("Enter The Mobile No:");
-        mobNo = get.nextDouble  ();
+        System.out.println("Enter The Mobile No: ");
+        mobNo = get.nextDouble();
     }
     void display()
     {
@@ -56,7 +56,7 @@ class assistantProfessor extends Employee
     String des1;
     assistantProfessor()
     {
-        System.out.println("Enter The Basic Pay:");
+        System.out.println("Enter The Basic Pay: ");
         bp1= get.nextFloat();
     }
     void calculatePay1()
@@ -70,7 +70,7 @@ class assistantProfessor extends Employee
         System.out.println("=============================="+"\n"+"Assistant Professor Details"+"\n"+"=============================="+"\n");
         super.display();
         System.out.println("Gross Salary: "+rate1);
-        System.out.println("Net Salary "+net1);
+        System.out.println("Net Salary: "+net1);
     }
 }
 

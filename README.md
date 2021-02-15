@@ -5,9 +5,9 @@ This is a Java Program For Generating Employee Payroll
 
 Entering Options:
 
-  1. Basic Pay
+    1. Basic Pay
   
-   To Find:
+To Find:
   
     1. Gross Salary
     

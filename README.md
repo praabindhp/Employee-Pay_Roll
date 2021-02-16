@@ -1,6 +1,8 @@
 # Employee-Pay_Roll
 Java Program For Employee Payroll
 
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+
 This is a Java Program For Generating Employee Payroll
 
 Entering Options:
